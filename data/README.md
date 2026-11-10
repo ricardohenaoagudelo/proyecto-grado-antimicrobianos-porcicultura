@@ -33,13 +33,6 @@ Los datos pueden utilizarse para:
 - Demostrar el funcionamiento del prototipo.
 - Reproducir escenarios utilizados durante la Fase 4.
 
-## Archivo recomendado
-
-Se puede incluir un archivo denominado:
-
-`datos-prueba-ficticios.csv`
-
-con registros utilizados para verificar el funcionamiento de la aplicación.
 
 ## Nota
 
