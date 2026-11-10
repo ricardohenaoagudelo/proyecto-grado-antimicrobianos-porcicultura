@@ -1,0 +1,7 @@
+Prueba,Producto,Concentracion_pct,Dosis_mg_kg,Peso_kg,Animales,Dias,Consumo_agua_animal_L_dia,Consumo_agua_lote_L_dia,Producto_g_dia,Producto_total_kg
+PF01,Amoxicilina,50,20,35,150,5,4.2,630,210,1.05
+PF02,Florfenicol,10,20,25,180,5,3.0,540,900,4.50
+PF03,Doxiciclina,50,15,60,160,5,7.2,1152,288,1.44
+PF04,Fosfomicina,10,40,75,140,5,9.0,1260,4200,21.00
+PF05,Tilvalosina,5,4,145,85,5,17.4,1479,986,4.93
+PF06,Tiamulina,10,12.5,230,55,5,27.6,1518,1581.25,7.906
