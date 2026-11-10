@@ -102,4 +102,28 @@ Entre ellas se encuentran:
 
 ## 7. Protección de campos calculados
 
-Los campos gener
+Los campos generados automáticamente por el sistema se configuraron como no editables por el usuario.
+
+Entre ellos se incluyen:
+
+- Consumo estimado de agua por animal.
+- Consumo total estimado del lote.
+- Cantidad diaria de producto comercial.
+- Cantidad total de producto para el tratamiento.
+
+Esta configuración disminuye el riesgo de modificaciones manuales que puedan alterar los resultados calculados.
+
+## Resultado de las pruebas de validación
+
+Las reglas fueron verificadas mediante doce pruebas de entrada con valores válidos e inválidos.
+
+Las pruebas confirmaron que el sistema:
+
+- Acepta valores dentro de los rangos definidos.
+- Rechaza valores nulos, negativos o fuera de rango.
+- Mantiene protegidos los resultados calculados.
+- Reduce la posibilidad de almacenar registros inconsistentes.
+
+## Nota
+
+Las reglas corresponden al alcance del prototipo académico desarrollado durante la Fase 4 y pueden ajustarse en versiones posteriores según nuevas necesidades técnicas, productivas o regulatorias.
