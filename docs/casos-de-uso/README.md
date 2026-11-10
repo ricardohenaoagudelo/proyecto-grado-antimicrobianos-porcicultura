@@ -44,3 +44,5 @@ Validación de datos
 Ejecución de cálculos
       ↓
 Visual
+
+<img width="776" height="661" alt="image" src="https://github.com/user-attachments/assets/0932e40d-03e5-4ba3-a44b-75d9acc65e8a" />
